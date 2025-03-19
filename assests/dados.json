@@ -1,0 +1,89 @@
+[
+    {
+    "id":1,
+    "produto":"Papai Noel",
+    "descricao":"Fantasia de Papai Noel",
+    "preco":130.0,
+    "imagem":"https://m.media-amazon.com/images/I/41BxeHswKtL._AC_SY1000_.jpg"
+},
+{
+    "id":2,
+    "produto":"Fantasia Noel",
+    "descricao":"Fantasia de Mamãe Noel",
+    "preco":99.9,
+    "imagem":"https://fantasiascriativas.com.br/wp-content/uploads/2014/05/fantasia-mamae-noel.jpg "
+},
+{
+    "id":3,
+    "produto":"Macacão de rena",
+    "descricao":"Macacão de Rena do Papai Noel,Adulto",
+    "preco":110.0,
+    "imagem":"https://down-br.img.susercontent.com/file/fdce538799047dee9f41db2df8c443c7"
+},
+{
+    "id":4,
+    "produto":"Fantasia de Ajudante",
+    "descricao":"Fantasia de Ajudante do Papai Noel, Infantil ",
+    "preco":92.0,
+    "imagem":"https://m.media-amazon.com/images/I/51V1Et73m5L._AC_SY1000_.jpg"
+},
+
+
+{
+    "id":5,
+    "produto":"Árvore",
+    "descricao":"Fantasia de Árvore de Natal",
+    "preco":89.0,
+    "imagem":"https://http2.mlstatic.com/D_NQ_NP_710386-CBT77890072415_072024-O.webp"
+},
+{
+    "id":6,
+    "produto":"Grinch",
+    "descricao":"Fantasia do Grinch ",
+    "preco":110.0,
+    "imagem":"https://m.media-amazon.com/images/I/51y6YQjxFJL._AC_UF1000,1000_QL80_.jpg "
+},
+{
+    "id":7,
+    "produto":"Peru",
+    "descricao":"Fantasia de Peru de Natal",
+    "preco":105.0,
+    "imagem":"https://www.megashopsul.com.br/1094-large_default/fantasia-adulto-unissex-peru-de-natal-traje-para-festa-a-fantasia.jpg"},
+
+{
+    "id":8,
+    "produto":"Conjunto de Pijama",
+    "descricao":"Conjuntos de Pijamas Natalinos ",
+    "preco":350.0,
+    "imagem":"https://m.media-amazon.com/images/I/51WGA26ePLL._AC_SY1000_.jpg"
+},
+{
+    "id":9,
+    "produto":"Moletom",
+    "descricao":"Blusa Moletom Masculina vermelha",
+    "preco":90.0,
+    "imagem":"https://m.media-amazon.com/images/I/41BwSn9zQAL._AC_SY1000_.jpg"
+},
+{
+    "id":10,
+    "produto":"Blazer",
+    "descricao":"Conjunto Masculino de Blazer Natalino",
+    "preco":250.0,
+    "imagem":"https://m.media-amazon.com/images/I/61qzmb63+1L._AC_.jpg"
+},
+{
+    "id":11,
+    "produto":"Blusa N ",
+    "descricao":"Blusa Masculina preta, Natalina ",
+    "preco":60.0,
+    "imagem":"https://m.media-amazon.com/images/I/41bovigPfFL._AC_.jpg"
+},
+
+{
+    "id":12,
+    "produto":"Blusa Familia ",
+    "descricao":"Blusa Branca Unissex, Natalina ",
+    "preco":50.0,
+    "imagem":"https://img.elo7.com.br/product/600x380/461B104/2-camisetas-flork-natal-qualquer-estampa-presente-natalino-sugestao-presente-engracado.jpg"
+}
+]
